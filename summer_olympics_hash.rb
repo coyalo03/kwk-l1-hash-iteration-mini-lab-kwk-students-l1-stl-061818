@@ -1,9 +1,9 @@
 
 def create_olympics_hash
   = {
-  "rap" => ["Drake", "Migos", "Pusha T"],
-  "country" => ["Taylor Swift", "Carrie Underwood", "Hunter Hayes"],
-  "pop" => ["Sabrina Carpenter", "Ariana Grande", "Sam Smith"]
+  "rap" => [""],
+  "country" => [""],
+  "pop" => [""]
 }
   
 end
