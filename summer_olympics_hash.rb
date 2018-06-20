@@ -1,9 +1,8 @@
 
 def create_olympics_hash
   = {
-  "rap" => [""],
-  "country" => [""],
-  "pop" => [""]
+  "Place" => ["Sydney","Athens","Beijing","London"],
+  "Year" => ["2000","2004","2008","2012"]
 }
   
 end
