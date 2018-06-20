@@ -1,6 +1,5 @@
 
 def create_olympics_hash
-  = {
   
 }
   
