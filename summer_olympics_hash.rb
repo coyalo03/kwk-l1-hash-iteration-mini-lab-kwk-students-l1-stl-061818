@@ -5,7 +5,9 @@ def create_olympics_hash = {
   "Beijing" => "2008",
   "London" => "2012",
 }
-puts create_olympics_hash.values
+ = "Zoe"
+crush = "Bruno Mars"
+celeb_crush[person_numero_dos] = crush
   
 end
 
