@@ -5,8 +5,8 @@ def create_olympics_hash = {
   "Beijing" => "2008",
   "London" => "2012",
 }
-person_numero_dos = "Atlanta"
-crush = "1996"
+place = "Atlanta"
+year = "1996"
 celeb_crush[person_numero_dos] = crush
   
 end
